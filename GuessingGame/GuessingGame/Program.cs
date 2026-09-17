@@ -48,6 +48,7 @@
             } while (userGuess != guessTarget);
             Thread.Sleep(800);
             Console.WriteLine("Congratulations, you guessed the right number!");
+            Console.WriteLine("WOOOOWWW!");
             Console.ReadLine();
         }
     }
