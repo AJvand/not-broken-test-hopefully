@@ -49,6 +49,7 @@
             Thread.Sleep(800);
             Console.WriteLine("Congratulations, you guessed the right number!");
             Console.WriteLine("testing...");
+            Console.WriteLine("i am trying to break the code :)");
             Console.ReadLine();
         }
     }
