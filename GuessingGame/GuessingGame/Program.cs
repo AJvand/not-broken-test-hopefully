@@ -49,11 +49,8 @@
             Thread.Sleep(800);
             Console.WriteLine("Congratulations, you guessed the right number!");
             Console.WriteLine("testing...");
-<<<<<<< HEAD
             Console.WriteLine("i am trying to break the code :)");
-=======
             Console.WriteLine("MERGE ERROR");
->>>>>>> b10192d323de18a99ccef3818b3a12cb23fa125f
             Console.ReadLine();
         }
     }
